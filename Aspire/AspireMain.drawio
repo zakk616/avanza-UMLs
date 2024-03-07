@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T13:13:40.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NKdmMGInduPg-esNDfBr" version="24.0.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-03-07T14:57:41.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SKtN3gT743IerCBu0HAm" version="24.0.1" type="github" pages="11">
   <diagram id="lW2yeLPKLFarmGBHYU54" name="Aspire">
     <mxGraphModel dx="1290" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -760,7 +760,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sedaHkr_uvLU2MteSbGc" name="MT103">
-    <mxGraphModel dx="601" dy="240" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="293" dy="128" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -872,9 +872,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K3mxv7yjsUuDht7_KVUj-46" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Cach103&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" parent="K3mxv7yjsUuDht7_KVUj-45" vertex="1" connectable="0">
+        <mxCell id="K3mxv7yjsUuDht7_KVUj-46" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;RedisCache103&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" parent="K3mxv7yjsUuDht7_KVUj-45" vertex="1" connectable="0">
           <mxGeometry x="-0.5868" relative="1" as="geometry">
-            <mxPoint x="18" y="2" as="offset" />
+            <mxPoint x="25" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K3mxv7yjsUuDht7_KVUj-47" value="" style="endArrow=classicThin;html=1;rounded=0;strokeWidth=0.5;endFill=0;" parent="1" target="K3mxv7yjsUuDht7_KVUj-3" edge="1">
@@ -995,22 +995,6 @@
             <mxPoint x="-2" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fA26LElQ1YjYDudm-uJP-1" value="" style="endArrow=classicThin;html=1;rounded=0;strokeWidth=0.5;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="466" y="248" as="sourcePoint" />
-            <mxPoint x="466" y="252" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="248" />
-              <mxPoint x="480" y="248" />
-              <mxPoint x="480" y="252" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fA26LElQ1YjYDudm-uJP-2" value="Push196CacheList" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;fontColor=#FF3333;" parent="fA26LElQ1YjYDudm-uJP-1" vertex="1" connectable="0">
-          <mxGeometry x="-0.5868" relative="1" as="geometry">
-            <mxPoint x="29" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fA26LElQ1YjYDudm-uJP-3" value="" style="endArrow=classicThin;html=1;rounded=0;strokeWidth=0.5;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="465.8" y="401" as="sourcePoint" />
@@ -1038,9 +1022,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sfcTaVmhFitpu8DqyNat-2" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Get103Cache?DB&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" parent="sfcTaVmhFitpu8DqyNat-1" vertex="1" connectable="0">
+        <mxCell id="sfcTaVmhFitpu8DqyNat-2" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Get103Cache?&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;Push196CacheList&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" parent="sfcTaVmhFitpu8DqyNat-1" vertex="1" connectable="0">
           <mxGeometry x="-0.5868" relative="1" as="geometry">
-            <mxPoint x="28" y="1" as="offset" />
+            <mxPoint x="46" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sfcTaVmhFitpu8DqyNat-3" value="" style="endArrow=classicThin;html=1;rounded=0;strokeWidth=0.5;endFill=0;" parent="1" edge="1">
@@ -1138,7 +1122,7 @@
         </mxCell>
         <mxCell id="KzZA74-0ioB-l8opNZq--8" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;Save_EFTS_TRAN_196DB&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;fontColor=#00CC66;" parent="KzZA74-0ioB-l8opNZq--7" vertex="1" connectable="0">
           <mxGeometry x="-0.5868" relative="1" as="geometry">
-            <mxPoint x="39" y="1" as="offset" />
+            <mxPoint x="39" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KzZA74-0ioB-l8opNZq--9" value="" style="endArrow=classicThin;html=1;rounded=0;strokeWidth=0.5;endFill=0;" parent="1" edge="1">
@@ -1289,12 +1273,6 @@
         </mxCell>
         <mxCell id="KzZA74-0ioB-l8opNZq--42" value="write in log file, complete insert statement for 196 tran" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;fontColor=#000000;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="539.9960240963856" y="222" as="geometry" />
-        </mxCell>
-        <mxCell id="KzZA74-0ioB-l8opNZq--43" value="if DB is up" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;strokeWidth=0.25;perimeterSpacing=0;opacity=50;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="547" y="228" width="34" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="KzZA74-0ioB-l8opNZq--44" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;check db down case?&lt;br style=&quot;font-size: 4px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=4;" parent="1" vertex="1">
-          <mxGeometry x="478" y="247.5" width="56" height="17" as="geometry" />
         </mxCell>
         <mxCell id="KzZA74-0ioB-l8opNZq--45" value="if DB is up" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;strokeWidth=0.25;perimeterSpacing=0;opacity=50;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="309" width="34" height="24" as="geometry" />
